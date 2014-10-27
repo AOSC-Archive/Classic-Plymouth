@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Classic
+Description=Classic Plymouth Splash Animation from AOSC OS 0.5
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Classic
+ScriptFile=/usr/share/plymouth/themes/Classic/Classic.script
